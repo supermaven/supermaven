@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://firebasestorage.googleapis.com/v0/b/miraclegrooup-wpwmrn.appspot.com/o/supermavens-logo.png?alt=media&token=e3f00227-fd23-4d8e-a3c2-ffb56d3e4dd6" width="200px">
+   <img src="https://i.gifer.com/81An.gif" width="200px">
    <br>
    <br>
    <samp>
