@@ -6,7 +6,7 @@
      Welcome to Supermavens! 👋<br>
      Service: Full Stack, Android & iOS Development, Swift, Kotlin, React Native, Ruby on Rails, Python <br>
      :point_down: Feel free  to contact me <br>
-     :e-mail:	sunavenue.ca@gmail.com <br>
+     :e-mail:	<a href='mailo:sunavenue.ca@gmail.com'>Email me</a> <br>
    </samp>
  </p>
  ⭐️ From <a href='https://github.com/supermavens'>Supermavens</a>
