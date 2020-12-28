@@ -3,12 +3,11 @@
    <br>
    <br>
    <samp>
-     Hello, name's Stan! 👋
-     Freelance iOS Developer<br>
+     Welcome to Supermavens! 👋
+     Service: Full Stack, Android & iOS Development, Swift, Kotlin, React Native, Ruby, Python <br>
      :point_down: Feel free  to contact me <br>
-     :e-mail:	smilleriosdev@gmail.com <br>
-     :briefcase: LinkedIn: https://www.linkedin.com/in/stanleylmillerjr/ <br>
-     :speech_balloon: Twitter: https://www.twitter.com/mrmkeithappen
+     :e-mail:	sunavenue.inc@gmail.com <br>
+     :briefcase: LinkedIn: https://www.linkedin.com/in/khoa-t-truong-11a700b0/ <br>
    </samp>
  </p>
- ⭐️ From [MrMakeItHappen](https://github.com/MrMakeItHappen)
+ ⭐️ From [Supermavens](https://github.com/Supermavens)
