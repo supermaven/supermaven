@@ -3,7 +3,7 @@
    <br>
    <br>
    <samp>
-     Welcome to Supermavens! 👋
+     Welcome to Supermavens! 👋<br>
      Service: Full Stack, Android & iOS Development, Swift, Kotlin, React Native, Ruby, Python <br>
      :point_down: Feel free  to contact me <br>
      :e-mail:	sunavenue.inc@gmail.com <br>
