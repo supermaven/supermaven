@@ -4,7 +4,7 @@
    <br>
    <samp>
      Welcome to Supermavens! 👋<br>
-     Service: Full Stack, Android & iOS Development, Swift, Kotlin, React Native, Ruby on Rails, Python <br>
+     Tech Stack: Swift, Kotlin, React Native, React, Ruby on Rails, Python <br>
      :point_down: Feel free  to contact me <br>
      :e-mail:	<a href='mailto:sunavenue.ca@gmail.com'>Email me</a> <br>
    </samp>
