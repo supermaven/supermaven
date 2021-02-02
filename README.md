@@ -1,7 +1,4 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/supermavens/supermavens/main/assets/test1.gif" width="200px">
-   <br>
-   <br>
    <samp>
      Welcome to Supermavens! 👋<br>
      Tech Stack: Swift, Kotlin, React Native, React, Vue, Ruby on Rails, Python <br>
