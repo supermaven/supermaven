@@ -8,14 +8,3 @@
    
  </p>
  ⭐️ From <a href='https://github.com/supermavens'>Supermavens</a>
-
-### Connect with me:
-
-[<img align="left" alt="adil-ughratdar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="adil-ughratdar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-## <br />
-
-
-[linkedin]: https://www.linkedin.com/in/adil-ughratdar/
-[website]: https://youthful-chandrasekhar-0da28d.netlify.app/
