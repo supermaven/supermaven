@@ -16,9 +16,6 @@
 
 ## <br />
 
-<img align="left" alt="Adil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adil659&show_icons=true&hide_border=true" />
-
-<img align="left" alt="Adil's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil659&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/adil-ughratdar/
 [website]: https://youthful-chandrasekhar-0da28d.netlify.app/
