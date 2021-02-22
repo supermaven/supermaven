@@ -1,5 +1,5 @@
-[![](https://img.shields.io/badge/LinkedIn-JeffreyCA-0077B5?logo=LinkedIn&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jeffreyca/)
-[![](https://img.shields.io/badge/Twitter-JeffreyCA__-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/JeffreyCA_)
+[![]()](https://www.linkedin.com/in/jeffreyca/)
+
 
 <p align="center">
    <samp>
